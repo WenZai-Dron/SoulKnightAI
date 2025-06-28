@@ -1,0 +1,52 @@
+2025-06-28 13:30:06,476 - INFO - 正在检查运行环境...
+2025-06-28 13:30:06,477 - ERROR - 未找到ADB工具，请确认路径: D:\MuMuPlayer\shell\.\adb.exe
+2025-06-28 13:30:08,196 - INFO - 正在检查运行环境...
+2025-06-28 13:30:08,197 - ERROR - 未找到ADB工具，请确认路径: D:\MuMuPlayer\shell\.\adb.exe
+2025-06-28 13:32:46,988 - INFO - 尝试查找有效的ADB路径，候选路径: ['D:\\MuMuPlayer\\shell\\.\\adb.exe', 'D:\\YXArkNights-12.0\\shell\\.\\adb.exe', 'C:\\Program Files\\Nox\\bin\\adb.exe']
+2025-06-28 13:32:46,989 - WARNING - ADB路径不存在: D:\MuMuPlayer\shell\.\adb.exe
+2025-06-28 13:32:47,097 - INFO - 找到有效ADB路径: D:\YXArkNights-12.0\shell\.\adb.exe
+2025-06-28 13:32:47,097 - INFO - ADB版本: Android Debug Bridge version 1.0.41
+Version 34.0.1-9979309
+Installed as D:\YXArkNights-12.0\shell\adb.exe
+Running on Windows 10.0.19045
+2025-06-28 13:32:47,101 - INFO - 正在检查运行环境...
+2025-06-28 13:32:53,858 - INFO - 尝试查找有效的ADB路径，候选路径: ['D:\\MuMuPlayer\\shell\\.\\adb.exe', 'D:\\YXArkNights-12.0\\shell\\.\\adb.exe', 'C:\\Program Files\\Nox\\bin\\adb.exe']
+2025-06-28 13:32:53,859 - WARNING - ADB路径不存在: D:\MuMuPlayer\shell\.\adb.exe
+2025-06-28 13:32:53,872 - INFO - 找到有效ADB路径: D:\YXArkNights-12.0\shell\.\adb.exe
+2025-06-28 13:32:53,872 - INFO - ADB版本: Android Debug Bridge version 1.0.41
+Version 34.0.1-9979309
+Installed as D:\YXArkNights-12.0\shell\adb.exe
+Running on Windows 10.0.19045
+2025-06-28 13:32:53,872 - INFO - 正在检查运行环境...
+2025-06-28 13:32:57,303 - INFO - 尝试查找有效的ADB路径，候选路径: ['D:\\MuMuPlayer\\shell\\.\\adb.exe', 'D:\\YXArkNights-12.0\\shell\\.\\adb.exe', 'C:\\Program Files\\Nox\\bin\\adb.exe']
+2025-06-28 13:32:57,303 - WARNING - ADB路径不存在: D:\MuMuPlayer\shell\.\adb.exe
+2025-06-28 13:32:57,318 - INFO - 找到有效ADB路径: D:\YXArkNights-12.0\shell\.\adb.exe
+2025-06-28 13:32:57,318 - INFO - ADB版本: Android Debug Bridge version 1.0.41
+Version 34.0.1-9979309
+Installed as D:\YXArkNights-12.0\shell\adb.exe
+Running on Windows 10.0.19045
+2025-06-28 13:32:57,318 - INFO - 正在检查运行环境...
+2025-06-28 13:33:01,783 - INFO - 尝试查找有效的ADB路径，候选路径: ['D:\\MuMuPlayer\\shell\\.\\adb.exe', 'D:\\YXArkNights-12.0\\shell\\.\\adb.exe', 'C:\\Program Files\\Nox\\bin\\adb.exe']
+2025-06-28 13:33:01,784 - WARNING - ADB路径不存在: D:\MuMuPlayer\shell\.\adb.exe
+2025-06-28 13:33:01,795 - INFO - 找到有效ADB路径: D:\YXArkNights-12.0\shell\.\adb.exe
+2025-06-28 13:33:01,795 - INFO - ADB版本: Android Debug Bridge version 1.0.41
+Version 34.0.1-9979309
+Installed as D:\YXArkNights-12.0\shell\adb.exe
+Running on Windows 10.0.19045
+2025-06-28 13:33:01,795 - INFO - 正在检查运行环境...
+2025-06-28 13:33:46,282 - INFO - 尝试查找有效的ADB路径，候选路径: ['D:\\MuMuPlayer\\shell\\.\\adb.exe', 'D:\\YXArkNights-12.0\\shell\\.\\adb.exe', 'C:\\Program Files\\Nox\\bin\\adb.exe']
+2025-06-28 13:33:46,282 - WARNING - ADB路径不存在: D:\MuMuPlayer\shell\.\adb.exe
+2025-06-28 13:33:46,293 - INFO - 找到有效ADB路径: D:\YXArkNights-12.0\shell\.\adb.exe
+2025-06-28 13:33:46,293 - INFO - ADB版本: Android Debug Bridge version 1.0.41
+Version 34.0.1-9979309
+Installed as D:\YXArkNights-12.0\shell\adb.exe
+Running on Windows 10.0.19045
+2025-06-28 13:33:46,294 - INFO - 正在检查运行环境...
+2025-06-28 13:33:52,739 - INFO - 尝试查找有效的ADB路径，候选路径: ['D:\\MuMuPlayer\\shell\\.\\adb.exe', 'D:\\YXArkNights-12.0\\shell\\.\\adb.exe', 'C:\\Program Files\\Nox\\bin\\adb.exe']
+2025-06-28 13:33:52,739 - WARNING - ADB路径不存在: D:\MuMuPlayer\shell\.\adb.exe
+2025-06-28 13:33:52,750 - INFO - 找到有效ADB路径: D:\YXArkNights-12.0\shell\.\adb.exe
+2025-06-28 13:33:52,750 - INFO - ADB版本: Android Debug Bridge version 1.0.41
+Version 34.0.1-9979309
+Installed as D:\YXArkNights-12.0\shell\adb.exe
+Running on Windows 10.0.19045
+2025-06-28 13:33:52,750 - INFO - 正在检查运行环境...
