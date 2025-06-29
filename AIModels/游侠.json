@@ -1,0 +1,16 @@
+{
+    "name": "\u6e38\u4fa0",
+    "version": "1.0",
+    "training_data": [],
+    "settings": {
+        "sensitivity": 0.8,
+        "move_speed": 1.0,
+        "fire_rate": 0.5
+    },
+    "stats": {
+        "battles": 0,
+        "wins": 0,
+        "kill_count": 0,
+        "death_count": 0
+    }
+}
